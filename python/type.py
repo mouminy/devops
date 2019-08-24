@@ -1,5 +1,5 @@
 var1 = "hello"
-var2 = 19
+var2 = "19"
 var3 = "toto"
 
 print(var1 + " " + var3)
